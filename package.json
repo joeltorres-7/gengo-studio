@@ -33,7 +33,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^9.0.1",
-    "nightwatch": "^2.1.7",
+    "nightwatch": "^2.6.14",
     "postcss": "^8.4.4",
     "prettier": "^2.5.1"
   }
